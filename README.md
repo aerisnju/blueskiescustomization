@@ -17,10 +17,10 @@ So I think it would be helpful to extract the part for Blue Skies, and port it t
 
 The mod provides such settings for disabling the item nerf and allowing structures to be generated in the BlueSkies dimensions.
 
-## How to use it
+## How to get and use it
 The mod requires Forge. And the BlueSkies mod should be installed. The current branch supports Minecraft 1.20.1 Forge.
 
-Just place the mod jar file into the "mods" directory and configure the settings file to enable or disable the settings.
+Get the mod from the **Release** section of the repository. Place the mod jar file into the "mods" directory and configure the settings file to enable or disable the settings.
 
 Here is the default settings:
 ```toml
