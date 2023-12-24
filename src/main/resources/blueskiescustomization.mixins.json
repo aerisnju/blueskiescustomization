@@ -12,6 +12,8 @@
     "blueskies.MixinMinecraftLivingEntity",
     "blueskies.MixinMLSupporters",
     "blueskies.MixinSkiesEntityHooks",
-    "blueskies.MixinSkiesHooks"
+    "blueskies.MixinSkiesHooks",
+    "blueskies.MixinEntWallEntity",
+    "blueskies.MixinStarlitCrusherEntity"
   ]
 }
